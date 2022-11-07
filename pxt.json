@@ -1,5 +1,5 @@
 {
-    "name": "Myrobot:bit",
+    "name": "หุ่นยนต์กู้ภัย",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -9,7 +9,8 @@
         "pxt-MyServo": "github:myrobotbit/pxt-myservo#3835bc231b661fefbd232bf0d9a58a9ab0796a9e",
         "pxt-MyRobotBit": "github:myrobotbit/pxt-myrobotbit#d567979c5756d9a7acabc51434322b29fa1c7515",
         "SSD1306_OLED": "github:tinkertanker/pxt-oled-ssd1306#v2.0.13",
-        "pxt-sonar": "github:microsoft/pxt-sonar#v0.0.5"
+        "pxt-sonar": "github:microsoft/pxt-sonar#v0.0.5",
+        "OLED12864_I2C": "github:makecode-extensions/oled12864_i2c#v1.5.0"
     },
     "files": [
         "main.blocks",
